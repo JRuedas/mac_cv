@@ -648,12 +648,14 @@
     "studies": [
       {
         "studyType": "certification",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "English Advanced Certificate (C1)",
         "startDate": "2017-06-01",
+        "finishDate": "2017-06-01",
         "institution": {
           "name": "Fuenlabrada School of Languages",
-          "description": ""
+          "description": "",
+          "URL": ""
         }
       },
       {
