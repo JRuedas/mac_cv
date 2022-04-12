@@ -677,9 +677,10 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Professional Scrum Master™ I (PSM I)",
         "startDate": "2018-10-01",
+        "finishDate": "2018-10-01",
         "institution": {
           "name": "Scrum.org",
           "description": "",
