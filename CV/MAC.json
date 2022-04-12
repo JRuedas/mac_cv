@@ -580,6 +580,12 @@
       },
       {
         "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
@@ -587,6 +593,12 @@
       {
         "skill": {
           "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
           "type": "technology"
         }
       },
