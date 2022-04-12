@@ -544,12 +544,6 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Linux",
           "type": "technology"
         }
@@ -586,19 +580,7 @@
       },
       {
         "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Grafana",
           "type": "technology"
         }
       },
@@ -610,37 +592,13 @@
       },
       {
         "skill": {
-          "name": "Logstash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Bash",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JUnit",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Vagrant",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Prometheus",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hazelcast",
           "type": "technology"
         }
       }
@@ -822,6 +780,34 @@
         },
         {
           "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Prometheus",
+          "type": "technology"
+        },
+        {
+          "name": "Grafana",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Helm",
+          "type": "technology"
+        },
+        {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
+          "name": "Datadog",
+          "type": "technology"
+        },
+        {
+          "name": "Kibana",
           "type": "technology"
         }
       ]
