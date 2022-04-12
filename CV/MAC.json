@@ -1,0 +1,822 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jonatan",
+      "surnames": "Ruedas Mora",
+      "title": "DevOps",
+      "description": "My job goals are oriented to the field of DevOps/SRE, Cloud and Software Development/Architecture.\n\nI strongly believe there is always room for improvement. Therefore, I am always trying to learn something new. Nowadays, I combine my work with an online master's degree in Development and Operations (DevOps) at International University of La Rioja (UNIR) and C2 level English studies at the Official School of Languages.\n\nI am currently employed as DevOps Engineer at Deveryware where I am focused on automating and improving the product lifecycle. Besides, I am also responsible for designing the application infrastructure and deploying the product in several environments. Apart from that, I also provide customer support and oversee the product operation team.\n\nIn addition, I worked as a Backend Software Engineer at Technical University of Madrid where I developed and maintained several Java applications. I have also worked as Mobile Software Engineer during almost two years at the same place.\n\nPrior to that, I was employed as Software developer at Coritel (Accenture)  where I was assigned to a project in collaboration with Renfe.\n\nAs far my studies are concerned, I finished my HNC programming studies in 2015 which led me to find my first job in the industry. While I was working, I decided to rejoin University to finish my bachelor’s degree in Computer Science & Engineering. In 2019, I graduated from Technical University of Madrid, and decided to enroll the master’s degree which I finished two years later in 2021.",
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jonatanruedas/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/JRuedas"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/Jonatan_Ruedas"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/18785637/jruedas"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Comic books",
+        "fact": "I have been reading comic books since I was a child and I love it. I am DC/Vertigo person but I also enjoy Marvel a lot.\n\nIf I have to choose my favorite comic saga I would probably choose Hellblazer."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Site Reliability Engineering",
+        "type": "reading",
+        "URL": "https://sre.google/sre-book/table-of-contents/",
+        "authors": [
+          {
+            "name": "Betsy",
+            "surnames": "Beyer, Chris Jones, Jennifer Petoff & Niall Murphy",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Batman Year One",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Frank",
+            "surnames": "Miller",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Technical University of Madrid - Deveryware"
+        },
+        "roles": [
+          {
+            "name": "Mobile Software Engineer (Research Intern)",
+            "startDate": "2017-07-01",
+            "finishDate": "2019-05-01",
+            "challenges": [
+              {
+                "description": "Research intern at Computer Networks and Web Technologies Laboratory (CoNWeT Lab) of the Technical University of Madrid's School of Computer Engineering CETTICO research group.\n\nAssigned to a research project in collaboration with the Spanish branch of Deveryware.\n\nI have developed an application and library, on iOS and Android, for the Nexes European project. Both developments allow users to communicate with emergency services through the GHALE (GeoHub Advanced Location Element) platform, an implementation of the European communication standard PEMEA (Pan-European Mobile Emergency Application)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "Gradle",
+                "type": "technology"
+              },
+              {
+                "name": "CocoaPods",
+                "type": "technology"
+              },
+              {
+                "name": "Fastlane",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Coritel"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2015-07-01",
+            "finishDate": "2016-09-01",
+            "challenges": [
+              {
+                "description": "Member of software architecture team.\n\nAssigned to the project of the Spanish Railway company, Renfe.\n\n- Web application development, testing and maintenance.\n\n- Application migration to Maven framework.\n\n- Collaboration in the implementation of a Continuous Integration environment using Jenkins, SonarQube and HP LoadRunner.\n\n- Archetype development to standardize applications architecture and its integration with different frameworks.\n\n- Configuration of Eclipse Luna and Mars to integrate different plugins in order to update and unify the development team's IDEs.\n\n- Load testing to the customer's sales system.\n\n- Administration of a Linux system (Fedora) for testing purposes of the Software Architecture team, installation of tools and maintenance.\n\n- Creation of configuration documents and user guides."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "Websphere",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Coritel"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2015-04-01",
+            "finishDate": "2015-06-01",
+            "challenges": [
+              {
+                "description": "Higher National Certificate internship.\n\nAssigned to the project of the Spanish Railway company, Renfe.\n\nMember of the development team.\n\n- Web applications development and maintenance."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Technical University of Madrid - Deveryware",
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Backend Software Engineer (Research Intern)",
+            "startDate": "2019-06-01",
+            "finishDate": "2021-08-01",
+            "challenges": [
+              {
+                "description": "Research intern at Computer Networks and Web Technologies Laboratory (CoNWeT Lab) of the Technical University of Madrid's School of Computer Engineering CETTICO research group.\n\nAssigned to a research project in collaboration with the Spanish branch of Deveryware.\n\nI have developed and maintained the signaling server used by the GHALE (GeoHub Advanced Location Element) platform, an implementation of the European communication standard PEMEA (Pan-European Mobile Emergency Application).\n\nThis server allows the negotiation of a multimedia session between the users and the emergency services to allow them to communicate by videoconference through a media server. In addition, I have designed and implemented a tool to automate the tests of the platform's videoconferencing module. Apart from that, I conducted an analysis of the scalability and performance of that module.\n\nFinally, I have done serveral developments related to the logging and metric collection system for the different components of the GHALE platform."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Logstash",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "Prometheus",
+                "type": "technology"
+              },
+              {
+                "name": "Hazelcast",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Deveryware",
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "Focused on automating and improving GHALE product lifecycle using DevOps best practices.\n\nResponsible for infrastructure design, Kubernetes cluster administration and GHALE deployment in several environments.\n\nIn addition, I also provide customer support and oversee GHALE's operations team."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Prometheus",
+                "type": "technology"
+              },
+              {
+                "name": "Helm",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Technical University of Madrid - Deveryware",
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Backend Software Engineer (Research Engineer)",
+            "startDate": "2021-09-01",
+            "finishDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "Research Engineer at Computer Networks and Web Technologies Laboratory (CoNWeT Lab) of the Technical University of Madrid's School of Computer Engineering CETTICO research group.\n\nAssigned to a research project in collaboration with the Spanish branch of Deveryware.\n\nI have carried out the design, development, and maintenance of the signaling server used by the GHALE's platform videoconferencing tool. In addition, I have been involved, together with the DevOps team, in the improvement of the product life cycle processes, especially the release process."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Logstash",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "Prometheus",
+                "type": "technology"
+              },
+              {
+                "name": "Hazelcast",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Logstash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vagrant",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prometheus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hazelcast",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "English Advanced Certificate (C1)",
+        "startDate": "2017-06-01",
+        "institution": {
+          "name": "Fuenlabrada School of Languages",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Oracle Certified Associate, Java SE 8 Programmer",
+        "startDate": "2019-03-01",
+        "institution": {
+          "name": "Oracle",
+          "description": "",
+          "URL": "https://www.youracclaim.com/badges/a43fe7db-ea55-44f3-93d0-df788149d20f/linked_in_profile"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Professional Scrum Master™ I (PSM I)",
+        "startDate": "2018-10-01",
+        "institution": {
+          "name": "Scrum.org",
+          "description": "",
+          "URL": "https://www.credly.com/badges/a9ad5765-11e5-4fa8-bf3b-59c270c8f954?source=linked_in_profile"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "English First Certificate (B2)",
+        "startDate": "2016-06-01",
+        "institution": {
+          "name": "Fuenlabrada School of Languages",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "CCNA Routing and Switching: Course completion",
+        "startDate": "2019-01-01",
+        "institution": {
+          "name": "Technical University of Madrid",
+          "description": "Course completion."
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's degree in Computer Science and Engineering",
+        "startDate": "2010-10-01",
+        "finishDate": "2013-06-01",
+        "institution": {
+          "name": "Technical University of Madrid",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's degree in Computer Science and Engineering",
+        "startDate": "2016-02-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "Technical University of Madrid",
+          "description": "I have rejoined the bachelor's degree studies combining them with a job as a software developer."
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Multi platform Applications Development (HNC)",
+        "startDate": "2013-10-01",
+        "finishDate": "2015-06-01",
+        "institution": {
+          "name": "IES Gaspar Melchor de Jovellanos",
+          "description": "I have learnt how to develop, deploy, document and maintain multi platform applications using specific technologies and development environments ensuring access to data securely and which meet the criteria of usability and quality required by the standards established."
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's degree in Computer Science and Engineering",
+        "startDate": "2019-09-01",
+        "finishDate": "2021-06-01",
+        "institution": {
+          "name": "Technical University of Madrid",
+          "description": "Dual training itinerary.\n\nI chose the dual training itinerary of the Master with the aim of gaining work experience while continuing my engineering training at university."
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's degree in Development and Operations (DevOps)",
+        "startDate": "2021-11-01",
+        "finishDate": "2022-09-01",
+        "institution": {
+          "name": "International University of La Rioja",
+          "description": "Online studies."
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jonatanruedas/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/18785637/jruedas"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        },
+        {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
