@@ -689,16 +689,6 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "CCNA Routing and Switching: Course completion",
-        "startDate": "2019-01-01",
-        "institution": {
-          "name": "Technical University of Madrid",
-          "description": "Course completion."
-        }
-      },
-      {
-        "studyType": "certification",
         "degreeAchieved": true,
         "name": "English First Certificate (B2)",
         "startDate": "2016-06-01",
@@ -706,6 +696,18 @@
         "institution": {
           "name": "Fuenlabrada School of Languages",
           "description": "",
+          "URL": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CCNA Routing and Switching: Course completion",
+        "startDate": "2019-01-01",
+        "finishDate": "2019-01-01",
+        "institution": {
+          "name": "Technical University of Madrid",
+          "description": "Course completion.",
           "URL": ""
         }
       },
