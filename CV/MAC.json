@@ -526,12 +526,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
@@ -820,6 +814,10 @@
         },
         {
           "name": "Kibana",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
           "type": "technology"
         }
       ]
