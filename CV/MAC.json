@@ -430,7 +430,7 @@
         },
         "roles": [
           {
-            "name": "Software Developer",
+            "name": "Software Developer (HNC Internship)",
             "startDate": "2015-04-01",
             "finishDate": "2015-06-01",
             "challenges": [
@@ -441,10 +441,6 @@
             "competences": [
               {
                 "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "DB2",
                 "type": "technology"
               },
               {
@@ -460,10 +456,6 @@
                 "type": "technology"
               },
               {
-                "name": "JSP",
-                "type": "technology"
-              },
-              {
                 "name": "JavaScript",
                 "type": "technology"
               },
@@ -473,10 +465,6 @@
               },
               {
                 "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "XML",
                 "type": "technology"
               }
             ]
