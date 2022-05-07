@@ -24,10 +24,6 @@
         "URL": "https://github.com/JRuedas"
       },
       {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/18785637/jruedas"
-      },
-      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/jonatanruedas/"
       }
@@ -575,6 +571,14 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -632,31 +636,13 @@
       },
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Maven",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vagrant",
           "type": "technology"
         }
       }
@@ -847,10 +833,6 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/jonatanruedas/"
-        },
-        {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/18785637/jruedas"
         }
       ]
     },
@@ -877,14 +859,6 @@
           "type": "technology"
         },
         {
-          "name": "Git",
-          "type": "technology"
-        },
-        {
-          "name": "GitLab",
-          "type": "technology"
-        },
-        {
           "name": "Go",
           "type": "technology"
         },
@@ -893,23 +867,11 @@
           "type": "technology"
         },
         {
-          "name": "Grafana",
-          "type": "technology"
-        },
-        {
-          "name": "Helm",
-          "type": "technology"
-        },
-        {
           "name": "JAVA",
           "type": "technology"
         },
         {
           "name": "Jenkins",
-          "type": "technology"
-        },
-        {
-          "name": "Kibana",
           "type": "technology"
         },
         {
