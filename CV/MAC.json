@@ -586,17 +586,6 @@
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master's degree in Computer Science and Engineering Computer Science and Engineering",
-        "startDate": "2019-01-01",
-        "finishDate": "2021-12-31",
-        "institution": {
-          "name": "Universidad Politécnica de Madrid",
-          "URL": "https://www.linkedin.com/school/universidad-politecnica-de-madrid/?trk=public_profile_school_profile-section-card_full-click"
-        }
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Professional Scrum Master™ I (PSM I)",
