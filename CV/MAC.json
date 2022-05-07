@@ -549,17 +549,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Master's degree in Development and Operations (DevOps) Computer Science and Engineering",
-        "startDate": "2021-01-01",
-        "finishDate": "2022-12-31",
-        "institution": {
-          "name": "UNIR - La Universidad en Internet",
-          "URL": "https://www.linkedin.com/school/unir-universidad-internet/?trk=public_profile_school_profile-section-card_full-click"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Master's degree in Computer Science and Engineering",
         "startDate": "2019-09-01",
         "finishDate": "2021-06-01",
