@@ -628,17 +628,6 @@
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Bachelor's degree in Computer Science and Engineering Computer Science and Engineering",
-        "startDate": "2016-01-01",
-        "finishDate": "2019-12-31",
-        "institution": {
-          "name": "Universidad Politécnica de Madrid",
-          "URL": "https://www.linkedin.com/school/universidad-politecnica-de-madrid/?trk=public_profile_school_profile-section-card_full-click"
-        }
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Multi platform Applications Development (HNC)",
