@@ -628,7 +628,7 @@
         }
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Multi platform Applications Development (HNC)",
         "startDate": "2013-10-01",
