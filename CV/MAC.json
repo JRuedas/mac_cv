@@ -296,19 +296,6 @@
       },
       {
         "organization": {
-          "name": "Universidad Politécnica de Madrid",
-          "URL": "https://www.linkedin.com/company/universidad-politecnica-de-madrid?trk=public_profile_experience-group-header"
-        },
-        "roles": [
-          {
-            "name": "Backend Software Engineer (Research Intern)",
-            "startDate": "2019-06-01",
-            "finishDate": "2021-08-31"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Technical University of Madrid - Deveryware"
         },
         "roles": [
