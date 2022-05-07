@@ -690,16 +690,6 @@
           "name": "Universidad Politécnica de Madrid",
           "URL": "https://www.linkedin.com/school/universidad-politecnica-de-madrid/?trk=public_profile_school_profile-section-card_full-click"
         }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "General Certificate of Education (GCE) Science and Technology",
-        "startDate": "2008-01-01",
-        "finishDate": "2010-12-31",
-        "institution": {
-          "name": "IES Salvador Allende"
-        }
       }
     ]
   },
