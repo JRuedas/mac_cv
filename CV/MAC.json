@@ -20,16 +20,16 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jonatanruedas/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/JRuedas"
       },
       {
         "type": "other",
         "URL": "https://stackoverflow.com/users/18785637/jruedas"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jonatanruedas/"
       }
     ],
     "interestingFacts": [
@@ -40,6 +40,17 @@
     ],
     "recommendations": [
       {
+        "title": "Batman Year One",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Frank",
+            "surnames": "Miller",
+            "title": "Author"
+          }
+        ]
+      },
+      {
         "title": "Site Reliability Engineering",
         "type": "reading",
         "URL": "https://sre.google/sre-book/table-of-contents/",
@@ -49,25 +60,270 @@
             "surnames": "Beyer, Chris Jones, Jennifer Petoff & Niall Murphy",
             "title": "Author"
           }
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Batman Year One",
-        "type": "reading",
-        "authors": [
-          {
-            "name": "Frank",
-            "surnames": "Miller",
-            "title": "Author"
-          }
-        ],
-        "summary": ""
+        ]
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Deveryware"
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "Focused on automating and improving GHALE product lifecycle using DevOps best practices.\n\nResponsible for infrastructure design, Kubernetes cluster administration and GHALE deployment in several environments.\n\nIn addition, I also provide customer support and oversee GHALE's operations team."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Helm",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Prometheus",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Technical University of Madrid - Deveryware"
+        },
+        "roles": [
+          {
+            "name": "Backend Software Engineer (Research Engineer)",
+            "startDate": "2021-09-01",
+            "finishDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "Research Engineer at Computer Networks and Web Technologies Laboratory (CoNWeT Lab) of the Technical University of Madrid's School of Computer Engineering CETTICO research group.\n\nAssigned to a research project in collaboration with the Spanish branch of Deveryware.\n\nI have carried out the design, development, and maintenance of the signaling server used by the GHALE's platform videoconferencing tool. In addition, I have been involved, together with the DevOps team, in the improvement of the product life cycle processes, especially the release process."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Hazelcast",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Logstash",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Prometheus",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Politécnica de Madrid",
+          "URL": "https://www.linkedin.com/company/universidad-politecnica-de-madrid?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Backend Software Engineer (Research Engineer)",
+            "startDate": "2021-09-01",
+            "finishDate": "2021-10-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Technical University of Madrid - Deveryware"
+        },
+        "roles": [
+          {
+            "name": "Backend Software Engineer (Research Intern)",
+            "startDate": "2019-06-01",
+            "finishDate": "2021-08-01",
+            "challenges": [
+              {
+                "description": "Research intern at Computer Networks and Web Technologies Laboratory (CoNWeT Lab) of the Technical University of Madrid's School of Computer Engineering CETTICO research group.\n\nAssigned to a research project in collaboration with the Spanish branch of Deveryware.\n\nI have developed and maintained the signaling server used by the GHALE (GeoHub Advanced Location Element) platform, an implementation of the European communication standard PEMEA (Pan-European Mobile Emergency Application).\n\nThis server allows the negotiation of a multimedia session between the users and the emergency services to allow them to communicate by videoconference through a media server. In addition, I have designed and implemented a tool to automate the tests of the platform's videoconferencing module. Apart from that, I conducted an analysis of the scalability and performance of that module.\n\nFinally, I have done serveral developments related to the logging and metric collection system for the different components of the GHALE platform."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Hazelcast",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Logstash",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Prometheus",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Politécnica de Madrid",
+          "URL": "https://www.linkedin.com/company/universidad-politecnica-de-madrid?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Backend Software Engineer (Research Intern)",
+            "startDate": "2019-06-01",
+            "finishDate": "2021-08-31"
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Technical University of Madrid - Deveryware"
@@ -84,15 +340,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Android",
                 "type": "technology"
               },
               {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
+                "name": "CocoaPods",
                 "type": "technology"
               },
               {
@@ -100,7 +352,7 @@
                 "type": "technology"
               },
               {
-                "name": "Android",
+                "name": "Fastlane",
                 "type": "technology"
               },
               {
@@ -112,7 +364,19 @@
                 "type": "technology"
               },
               {
+                "name": "Gradle",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
                 "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
                 "type": "technology"
               },
               {
@@ -120,18 +384,23 @@
                 "type": "technology"
               },
               {
-                "name": "Gradle",
-                "type": "technology"
-              },
-              {
-                "name": "CocoaPods",
-                "type": "technology"
-              },
-              {
-                "name": "Fastlane",
+                "name": "Swift",
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Politécnica de Madrid",
+          "URL": "https://www.linkedin.com/company/universidad-politecnica-de-madrid?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Mobile Software Engineer (Research Intern)",
+            "startDate": "2017-07-01",
+            "finishDate": "2019-05-31"
           }
         ]
       },
@@ -151,43 +420,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
                 "name": "CSS",
                 "type": "technology"
               },
               {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "XML",
-                "type": "technology"
-              },
-              {
-                "name": "Maven",
-                "type": "technology"
-              },
-              {
-                "name": "SonarQube",
+                "name": "DB2",
                 "type": "technology"
               },
               {
@@ -199,6 +436,14 @@
                 "type": "technology"
               },
               {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
                 "name": "JSON",
                 "type": "technology"
               },
@@ -207,14 +452,51 @@
                 "type": "technology"
               },
               {
-                "name": "DB2",
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
                 "type": "technology"
               },
               {
                 "name": "Websphere",
                 "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Coritel S.A.",
+          "URL": "https://www.linkedin.com/company/coritel-s.a.?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2015-07-01",
+            "finishDate": "2016-09-30"
           }
         ]
       },
@@ -234,15 +516,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "CSS",
                 "type": "technology"
               },
               {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
+                "name": "DB2",
                 "type": "technology"
               },
               {
@@ -250,15 +528,7 @@
                 "type": "technology"
               },
               {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "XML",
-                "type": "technology"
-              },
-              {
-                "name": "Maven",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
@@ -270,59 +540,7 @@
                 "type": "technology"
               },
               {
-                "name": "DB2",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Technical University of Madrid - Deveryware",
-          "URL": ""
-        },
-        "roles": [
-          {
-            "name": "Backend Software Engineer (Research Intern)",
-            "startDate": "2019-06-01",
-            "finishDate": "2021-08-01",
-            "challenges": [
-              {
-                "description": "Research intern at Computer Networks and Web Technologies Laboratory (CoNWeT Lab) of the Technical University of Madrid's School of Computer Engineering CETTICO research group.\n\nAssigned to a research project in collaboration with the Spanish branch of Deveryware.\n\nI have developed and maintained the signaling server used by the GHALE (GeoHub Advanced Location Element) platform, an implementation of the European communication standard PEMEA (Pan-European Mobile Emergency Application).\n\nThis server allows the negotiation of a multimedia session between the users and the emergency services to allow them to communicate by videoconference through a media server. In addition, I have designed and implemented a tool to automate the tests of the platform's videoconferencing module. Apart from that, I conducted an analysis of the scalability and performance of that module.\n\nFinally, I have done serveral developments related to the logging and metric collection system for the different components of the GHALE platform."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Grafana",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
@@ -330,27 +548,11 @@
                 "type": "technology"
               },
               {
-                "name": "GitLab",
+                "name": "Spring",
                 "type": "technology"
               },
               {
-                "name": "Logstash",
-                "type": "technology"
-              },
-              {
-                "name": "JUnit",
-                "type": "technology"
-              },
-              {
-                "name": "Mockito",
-                "type": "technology"
-              },
-              {
-                "name": "Prometheus",
-                "type": "technology"
-              },
-              {
-                "name": "Hazelcast",
+                "name": "XML",
                 "type": "technology"
               }
             ]
@@ -359,170 +561,20 @@
       },
       {
         "organization": {
-          "name": "Deveryware",
-          "URL": ""
+          "name": "Coritel S.A.",
+          "URL": "https://www.linkedin.com/company/coritel-s.a.?trk=public_profile_experience-group-header"
         },
         "roles": [
           {
-            "name": "DevOps Engineer",
-            "startDate": "2021-11-01",
-            "challenges": [
-              {
-                "description": "Focused on automating and improving GHALE product lifecycle using DevOps best practices.\n\nResponsible for infrastructure design, Kubernetes cluster administration and GHALE deployment in several environments.\n\nIn addition, I also provide customer support and oversee GHALE's operations team."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "Ansible",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Grafana",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Bash",
-                "type": "technology"
-              },
-              {
-                "name": "Prometheus",
-                "type": "technology"
-              },
-              {
-                "name": "Helm",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Technical University of Madrid - Deveryware",
-          "URL": ""
-        },
-        "roles": [
-          {
-            "name": "Backend Software Engineer (Research Engineer)",
-            "startDate": "2021-09-01",
-            "finishDate": "2021-10-01",
-            "challenges": [
-              {
-                "description": "Research Engineer at Computer Networks and Web Technologies Laboratory (CoNWeT Lab) of the Technical University of Madrid's School of Computer Engineering CETTICO research group.\n\nAssigned to a research project in collaboration with the Spanish branch of Deveryware.\n\nI have carried out the design, development, and maintenance of the signaling server used by the GHALE's platform videoconferencing tool. In addition, I have been involved, together with the DevOps team, in the improvement of the product life cycle processes, especially the release process."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Grafana",
-                "type": "technology"
-              },
-              {
-                "name": "Maven",
-                "type": "technology"
-              },
-              {
-                "name": "GitLab",
-                "type": "technology"
-              },
-              {
-                "name": "Logstash",
-                "type": "technology"
-              },
-              {
-                "name": "JUnit",
-                "type": "technology"
-              },
-              {
-                "name": "Mockito",
-                "type": "technology"
-              },
-              {
-                "name": "Prometheus",
-                "type": "technology"
-              },
-              {
-                "name": "Hazelcast",
-                "type": "technology"
-              }
-            ]
+            "name": "Software Developer",
+            "startDate": "2015-04-01",
+            "finishDate": "2015-06-30"
           }
         ]
       }
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "Spanish"
-      },
-      {
-        "name": "English"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -611,27 +663,36 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "English Advanced Certificate (C1)",
-        "startDate": "2017-06-01",
-        "finishDate": "2017-06-01",
+        "name": "Master's degree in Development and Operations (DevOps)",
+        "startDate": "2021-11-01",
+        "finishDate": "2022-09-01",
         "institution": {
-          "name": "Fuenlabrada School of Languages",
-          "description": "",
-          "URL": ""
+          "name": "International University of La Rioja",
+          "description": "Online studies."
         }
       },
       {
-        "studyType": "certification",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Professional Scrum Master™ I (PSM I)",
-        "startDate": "2018-10-01",
-        "finishDate": "2018-10-01",
+        "name": "Master's degree in Development and Operations (DevOps) Computer Science and Engineering",
+        "startDate": "2021-01-01",
+        "finishDate": "2022-12-31",
         "institution": {
-          "name": "Scrum.org",
-          "description": "",
-          "URL": "https://www.credly.com/badges/a9ad5765-11e5-4fa8-bf3b-59c270c8f954?source=linked_in_profile"
+          "name": "UNIR - La Universidad en Internet",
+          "URL": "https://www.linkedin.com/school/unir-universidad-internet/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's degree in Computer Science and Engineering",
+        "startDate": "2019-09-01",
+        "finishDate": "2021-06-01",
+        "institution": {
+          "name": "Technical University of Madrid",
+          "description": "Dual training itinerary.\n\nI chose the dual training itinerary of the Master with the aim of gaining work experience while continuing my engineering training at university."
         }
       },
       {
@@ -642,7 +703,6 @@
         "finishDate": "2019-03-01",
         "institution": {
           "name": "Oracle",
-          "description": "",
           "URL": "https://www.youracclaim.com/badges/a43fe7db-ea55-44f3-93d0-df788149d20f/linked_in_profile"
         },
         "linkedCompetences": [
@@ -655,36 +715,54 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "English First Certificate (B2)",
-        "startDate": "2016-06-01",
-        "finishDate": "2016-06-01",
-        "institution": {
-          "name": "Fuenlabrada School of Languages",
-          "description": "",
-          "URL": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "CCNA Routing and Switching: Course completion",
         "startDate": "2019-01-01",
         "finishDate": "2019-01-01",
         "institution": {
           "name": "Technical University of Madrid",
-          "description": "Course completion.",
-          "URL": ""
+          "description": "Course completion."
         }
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Bachelor's degree in Computer Science and Engineering",
-        "startDate": "2010-10-01",
-        "finishDate": "2013-06-01",
+        "name": "Master's degree in Computer Science and Engineering Computer Science and Engineering",
+        "startDate": "2019-01-01",
+        "finishDate": "2021-12-31",
         "institution": {
-          "name": "Technical University of Madrid",
-          "description": ""
+          "name": "Universidad Politécnica de Madrid",
+          "URL": "https://www.linkedin.com/school/universidad-politecnica-de-madrid/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Professional Scrum Master™ I (PSM I)",
+        "startDate": "2018-10-01",
+        "finishDate": "2018-10-01",
+        "institution": {
+          "name": "Scrum.org",
+          "URL": "https://www.credly.com/badges/a9ad5765-11e5-4fa8-bf3b-59c270c8f954?source=linked_in_profile"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "English Advanced Certificate (C1)",
+        "startDate": "2017-06-01",
+        "finishDate": "2017-06-01",
+        "institution": {
+          "name": "Fuenlabrada School of Languages"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "English First Certificate (B2)",
+        "startDate": "2016-06-01",
+        "finishDate": "2016-06-01",
+        "institution": {
+          "name": "Fuenlabrada School of Languages"
         }
       },
       {
@@ -696,6 +774,17 @@
         "institution": {
           "name": "Technical University of Madrid",
           "description": "I have rejoined the bachelor's degree studies combining them with a job as a software developer."
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's degree in Computer Science and Engineering Computer Science and Engineering",
+        "startDate": "2016-01-01",
+        "finishDate": "2019-12-31",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "URL": "https://www.linkedin.com/school/universidad-politecnica-de-madrid/?trk=public_profile_school_profile-section-card_full-click"
         }
       },
       {
@@ -712,23 +801,42 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Master's degree in Computer Science and Engineering",
-        "startDate": "2019-09-01",
-        "finishDate": "2021-06-01",
+        "name": "Multi platform Applications Development (HNC) Computer programming",
+        "startDate": "2013-01-01",
+        "finishDate": "2015-12-31",
         "institution": {
-          "name": "Technical University of Madrid",
-          "description": "Dual training itinerary.\n\nI chose the dual training itinerary of the Master with the aim of gaining work experience while continuing my engineering training at university."
+          "name": "IES Gaspar Melchor de Jovellanos"
         }
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Master's degree in Development and Operations (DevOps)",
-        "startDate": "2021-11-01",
-        "finishDate": "2022-09-01",
+        "name": "Bachelor's degree in Computer Science and Engineering",
+        "startDate": "2010-10-01",
+        "finishDate": "2013-06-01",
         "institution": {
-          "name": "International University of La Rioja",
-          "description": "Online studies."
+          "name": "Technical University of Madrid"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's degree in Computer Science and Engineering Computer Science and Engineering",
+        "startDate": "2010-01-01",
+        "finishDate": "2013-12-31",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "URL": "https://www.linkedin.com/school/universidad-politecnica-de-madrid/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "General Certificate of Education (GCE) Science and Technology",
+        "startDate": "2008-01-01",
+        "finishDate": "2010-12-31",
+        "institution": {
+          "name": "IES Salvador Allende"
         }
       }
     ]
@@ -749,43 +857,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "Go",
-          "type": "technology"
-        },
-        {
           "name": "AWS",
-          "type": "technology"
-        },
-        {
-          "name": "Google Cloud",
-          "type": "technology"
-        },
-        {
-          "name": "Jenkins",
-          "type": "technology"
-        },
-        {
-          "name": "Docker",
-          "type": "technology"
-        },
-        {
-          "name": "Kubernetes",
-          "type": "technology"
-        },
-        {
-          "name": "Azure",
-          "type": "technology"
-        },
-        {
-          "name": "Terraform",
           "type": "technology"
         },
         {
@@ -793,11 +865,19 @@
           "type": "technology"
         },
         {
-          "name": "Git",
+          "name": "Azure",
           "type": "technology"
         },
         {
-          "name": "Grafana",
+          "name": "Datadog",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
           "type": "technology"
         },
         {
@@ -805,7 +885,15 @@
           "type": "technology"
         },
         {
-          "name": "Kibana",
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Grafana",
           "type": "technology"
         },
         {
@@ -813,11 +901,31 @@
           "type": "technology"
         },
         {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Kibana",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
           "name": "Prometheus",
           "type": "technology"
         },
         {
-          "name": "Datadog",
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
           "type": "technology"
         }
       ]
