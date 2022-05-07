@@ -322,18 +322,6 @@
                 "type": "technology"
               },
               {
-                "name": "Fastlane",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "GitLab",
-                "type": "technology"
-              },
-              {
                 "name": "Gradle",
                 "type": "technology"
               },
@@ -342,15 +330,7 @@
                 "type": "technology"
               },
               {
-                "name": "JUnit",
-                "type": "technology"
-              },
-              {
                 "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Mockito",
                 "type": "technology"
               },
               {
