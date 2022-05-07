@@ -641,16 +641,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Multi platform Applications Development (HNC) Computer programming",
-        "startDate": "2013-01-01",
-        "finishDate": "2015-12-31",
-        "institution": {
-          "name": "IES Gaspar Melchor de Jovellanos"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Bachelor's degree in Computer Science and Engineering",
         "startDate": "2010-10-01",
         "finishDate": "2013-06-01",
