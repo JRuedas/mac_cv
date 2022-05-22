@@ -386,12 +386,12 @@
         },
         "roles": [
           {
-            "name": "Software Developer (HNC Internship)",
+            "name": "Software Developer (HND Internship)",
             "startDate": "2015-04-01",
             "finishDate": "2015-06-01",
             "challenges": [
               {
-                "description": "Higher National Certificate internship.\n\nAssigned to the project of the Spanish Railway company, Renfe.\n\nMember of the development team.\n\n- Web applications development and maintenance."
+                "description": "Higher National Diploma internship.\n\nAssigned to the project of the Spanish Railway company, Renfe.\n\nMember of the development team.\n\n- Web applications development and maintenance."
               }
             ],
             "competences": [
