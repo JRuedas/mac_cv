@@ -336,7 +336,7 @@
             "finishDate": "2016-09-01",
             "challenges": [
               {
-                "description": "Assigned to the project of the Spanish Railway company, Renfe.\n\n- Java application development.\n\n- Application migration to Maven framework.\n\n- Collaboration in the implementation of a Continuous Integration environment using Jenkins, SonarQube and HP LoadRunner.\n\n- Archetype development to standardize applications architecture and its integration with different frameworks.\n\n- Configuration of Eclipse Luna and Mars to integrate different plugins in order to update and unify the development team's IDEs.\n\n- Load testing to the customer's sales system.\n\n- Administration of a Linux system (Fedora) for testing purposes of the Software Architecture team, installation of tools and maintenance.\n\n- Creation of configuration documents and user guides."
+                "description": "Assigned to the project of the Spanish Railway company, Renfe.\n\n- Back-end development, using Java and Spring.\n\n- Application migration to Maven framework.\n\n- Collaboration in the implementation of a Continuous Integration environment using Jenkins, SonarQube and HP LoadRunner.\n\n- Archetype development to standardize applications architecture and its integration with different frameworks.\n\n- Configuration of Eclipse Luna and Mars to integrate different plugins in order to update and unify the development team's IDEs.\n\n- Load testing to the customer's sales system.\n\n- Administration of a Linux system (Fedora) for testing purposes of the Software Architecture team, installation of tools and maintenance.\n\n- Creation of configuration documents and user guides."
               }
             ],
             "competences": [
