@@ -45,18 +45,6 @@
             "title": "Author"
           }
         ]
-      },
-      {
-        "title": "Site Reliability Engineering",
-        "type": "reading",
-        "URL": "https://sre.google/sre-book/table-of-contents/",
-        "authors": [
-          {
-            "name": "Betsy",
-            "surnames": "Beyer, Chris Jones, Jennifer Petoff & Niall Murphy",
-            "title": "Author"
-          }
-        ]
       }
     ]
   },
